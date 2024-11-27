@@ -1,0 +1,13 @@
+package model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class User {
+	private int id;
+	private String nom;
+	private String prenom;
+	private String email;
+	private String mdp;
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\ACER\Desktop\nour pr\web-learning\FORMATION\LES PROJETS\.metadata\.plugins\org.eclipse.jdt.core
+1084035290.index
+2128909644.index
+3435648363.index
+1865797976.index
